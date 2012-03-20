@@ -1,0 +1,5 @@
+C:\MyProjects\JQuery_ShowAge\trunk\JQuery_ShowAge\bin\JQuery_ShowAge.dll
+C:\MyProjects\JQuery_ShowAge\trunk\JQuery_ShowAge\bin\JQuery_ShowAge.pdb
+C:\MyProjects\JQuery_ShowAge\trunk\JQuery_ShowAge\obj\Debug\ResolveAssemblyReference.cache
+C:\MyProjects\JQuery_ShowAge\trunk\JQuery_ShowAge\obj\Debug\JQuery_ShowAge.dll
+C:\MyProjects\JQuery_ShowAge\trunk\JQuery_ShowAge\obj\Debug\JQuery_ShowAge.pdb
